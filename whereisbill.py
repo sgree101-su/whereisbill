@@ -28,7 +28,7 @@ def getbillstatus(bill_id):  #call to ProPublica API for detailled information a
         bill_tracking = {}
         bill_data_tracking.append(bill_tracking)
         bill_tracking['bill'] = i["bill"]
-        bill_tracking['bill_title'] = i['title']
+        bill_tracking['bill_title'] = i['title'] 
         bill_tracking['short_title'] = i['short_title']
         bill_tracking['active'] = i['active']
         bill_tracking["last_vote"] = i['last_vote']
