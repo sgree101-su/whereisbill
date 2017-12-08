@@ -91,7 +91,9 @@ def getssenaterep(address): #Input state to return elected Senate representative
     return legislator_senate_df
 
 logo = '''
-                                           .╓▄▄#▒▓▓▓▓▓▓▓▄▄.
+ 
+ 
+                                          .╓▄▄#▒▓▓▓▓▓▓▓▄▄.
                                  ,▄▄▒▓▓▀▀╙└           ╙▀▀▓▄
                          .╓▄▄▒▓▀▀╙╙                      └█Γ
                    ,▄▄▓▓▀▀╙└                              ╫▒
@@ -140,6 +142,8 @@ logo = '''
             ╓▒▓▀└                      (█                     ▀▓▄
            (█Ñ                  ..,╓▄▄#▓█▓▓▄▄▄▄╓,,..        .,▄▓Ñ
             ╙▀▓▄▄▄╓╓╓▄▄▄▄▄▒▓▓▓▀▀▀╙╙╙└        '└╙╙╙╙▀▀▀▀▀▀▀▀▀▀╙╙    
+
+			
 '''
        
 # Main program
