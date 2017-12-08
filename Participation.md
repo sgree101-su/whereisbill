@@ -23,3 +23,4 @@ This is the written explanation of "who worked on what" outlining individual con
 - Finalized the project proposal
 - Finalized the poster
 - Finalized and hosted the video
+
