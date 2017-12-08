@@ -1,54 +1,4 @@
-                                           .╓▄▄#▒▓▓▓▓▓▓▓▄▄.
-                                 ,▄▄▒▓▓▀▀╙└           ╙▀▀▓▄
-                         .╓▄▄▒▓▀▀╙╙                      └█Γ
-                   ,▄▄▓▓▀▀╙└                              ╫▒
-              .▄▒▓▀╜╙                 .╓▄▄▄,              ║▌
-             ╢█╙                    ╓▒██▒▒╠╙▀▓            ╙█
-           ╓▓▀         .▄▄#⌐             └╙▀▓▒            └█⌐
-          #█`         ▒▀╙▄▒▓▀`               `             █Γ
-        ╓▓▀      ╓▒▓▒▒▒#▀╙                                 █M
-       ╔█╙   ╓#▓▀█░(█▀▀█⌐           ╓▄▓▓▓▄,                ╫▌
-      ▒█▒▓▓▓██` .▓Ñ║█ ╔█∩          ║▀    └▀M               ║▌
-     `▀▀╙.#▓╙   ╙╙ ╙ÿ▓▀║▓ ╔▓▓▀▀▓▄ (█⌐ ╓,  │█               ║▌
-        ╓▓▀          #▓▀└╫▌   ,╓║█▓▀▀▓██▓╓▓▀               ║▌
-       #█"         .╫▌   ║▌  ║███╙    ██▀╜                 ║▌
-     .▓▀         ╔▓▀╙     ▀▓▄╓║█∩     ▀∩  ,                ║▌
-    ╓▓Ñ        ╓▓▀█▄        └╙╙█▄       ┌▓Ñ                ╫▌
-   ╓█╙        #█` └█▄       .   ▀▀▀▀    ╫▌                 ▓M
-   ▓▌          ▀▓▄ └█▄      ╙▀▓▄,       ╫▌                (█∩
-   └▀▓,          ▀▓▄╙█M        └▀M      ║█▓▄              ▐█
-     └▀▓▄          ╙▓▓▓         │█     ╓▓∩ ╙╙ .╓▄▄▄▄▄▄▄▄╓,╫▌
-        ▀▓▄,         ╙█M       ╓▓▀▀▓▄#▓▀  .▄▓▓█▒▒▒▒▒▒▒▒▒▒▀█▓▄,
-          ╙▀▓▄        ╙█,     ╙╜        ╓▒▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒█▓▄
-             ▀▓▄,      ║▌             .▒█▒▒▒▒▒▒▒▒▒▒▒▓▓▓▓▓▓▓▓▀▀▀▀▓
-               ╙▀▓▄     █▄    .,▄▄▒▓▓▓██▓▓▓▀▀▀▀            ▄▄   └█
-                  ╙▓▒,  └▀▄▄▓▓▓▒▒▒▒▒▒█▀   ▄▄▄▄▄  ▓▓ ║█     ██    └█
-                    └▀▓▒▓▓▒▒▒▒▒▒▓▓▓▀█▌    █▌  █   █ ▐█▌    ██     ║▌
-                       █▓▒▒▓▓▀╜└..╓▄╫▌    ██▓▓█   █▌ ██    ║█     ▐▌
-                      (██▀╙╓▄#▓▓▀▀▀Ñ║▌    ██  ▐█▌ █▌ ██▓▒▓▓▐██▓█▀ ║▌
-                      ▐█▄▓▓▀ÑÑÑ╠╠ÑÑ▒▒█M    █▓▀▀▀  ▀▀    ▄▄▄▄▄▄▄  ▒█
-                      ╫█ÑÑÑ▒▒▓▓▀▀╙╙└`╙▓⌂.╓▄▄▄_▓▓▓▓▀▀▀▀▀▀▀║ÑÑÑÑÑÑ║▓▀
-                     (█▓▓▀╙└          └██▒ÑÑÑÑ╠╠╠╠╠╠╠╠╠╠╠╠ÑÑÑ╠Ñ▒█▀
-                     ║█                 ╙▓▒╡╠Ñ╠Ñ╠╠╠╠╠╠╠╠╠╠╠╠║▒▓▀▒▓,
-                    ╔█∩                   └▀▓▓▒ÑÑÑ╠╠╠╠╠Ñ▒▒▓██ÑÑ╠Ñ║█▄
-                   .█Ñ                        └╙▀█▓▓▓▓█▀└   ▀▒╠ÑÑ╠║█▄
-                   ╫▌                           │█▒▒▒╢▒▓     █▒╠╠╠╠╠█▓,
-                  #█        .,╓▄▄▄##▓▓▓▓▓▓▓▓▀▀▀▓▓█▒▒▒▒╢█▒    └█▒╠╠╠ÑÑ║▓▒,
-                 ╓█∩ .▄▄▓▓▀▀╙╙└     ▐█   ╓█    ║Ñ║█▒▒▒▒╢█▒    `█▒╠╠╠╠╠Ñ║▀▓▄
-                 ╫▌#▓▀└            (▓∩   ║▌    ║▓▓█▒▒▒▒▒╢█▄▒▓▓▄▄█▒ÑÑ╠Ñ╠╠╠Ñ▀▓▓▄
-                 └▀▓▄▄▄▄╓▄▄▄▄▄▄▄#▒▓█Ñ    ╫▌    ║▌ ║█▒▒▒▒▒▒█▀  └╙▀▀▀▓▓▓▓▓▓▓▓▀▀▀"
-                     └╙╙╙╙╙╙└'    ╫▌     █Γ    ║▌  █▓▒▒▒▒█▀
-                                 (█`    (█⌐    ║▌  └█▒▒▒█╙
-                                 ║▌     ⌠█     ╫Ñ   ╚█▓█C
-                                (█∩     ║▌     ▓Γ    ╚▀`
-                           .,▄▄▄▓▀      ║▌   .▄█▓▄▄▄╓,
-                   .╓▄▄▓▓▀▀▀╙╙`         ▓Ñ #▀╜╙   `└╙╙▀▀▓▒▄,
-               ,▄▓▓▀╙└                  █∩                ╙▀▓▒▄
-            ╓▒▓▀└                      (█                     ▀▓▄
-           (█Ñ                  ..,╓▄▄#▓█▓▓▄▄▄▄╓,,..        .,▄▓Ñ
-            ╙▀▓▄▄▄╓╓╓▄▄▄▄▄▒▓▓▓▀▀▀╙╙╙└        '└╙╙╙╙▀▀▀▀▀▀▀▀▀▀╙╙    
-
-# Where Is Bill?
+## Where Is Bill?
 
 Bills don't turn laws in one day!
 
@@ -64,11 +14,11 @@ The user will start at a menu and have to press a key to continue. It will promp
 ###### Algorithm:
 To code this program we will need to import some libraries (json, requests, pandas, numpy) and code at least four functions. 
 
-The first function we have to define is getrecentbill(keywords). It will connect to ProPublica Congress API and return matched bills in a data frame using pandas, Python Data Analysis Library. We will use lists, dictionaries and iteration to index and sort the json data to fit our needs. 
+The first function we have to define is getrecentbill(keywords). It will connect to [ProPublica Congress API](https://projects.propublica.org/api-docs/congress-api/) and return matched bills in a data frame using pandas, Python Data Analysis Library. We will use lists, dictionaries and iteration to index and sort the json data to fit our needs. 
 
-Then, the function track(bill_id) will connect back to the ProPublica Congress API to find more about the bill latest major action and deduce its current location. 
+Then, the function track(bill_id) will connect back to the [ProPublica Congress API](https://projects.propublica.org/api-docs/congress-api/) to find more about the bill latest major action and deduce its current location. 
 
-The third function will be getelectiverep(address). It will use SmartyStreets API to return data about the user district and work closely with legislators-current.csv to match their elected representative. This csv file was found online on the @unitedstates/congress-legislator Github and contains a lot of information about the current members of Congress. 
+The third function will be getelectiverep(address). It will use [SmartyStreets API](https://smartystreets.com/products/apis/us-street-api) to return data about the user district and work closely with legislators-current.csv to match their elected representative. This csv file was found online on the @unitedstates/congress-legislator Github and contains a lot of information about the current members of Congress. 
 
 Finally, using the getcontact(state, district) function the user will be provided with his elected representative contact information. 
 The main program will be used to generate the menu, the indefinite loop, the try and except, error handling and calls to functions. 
