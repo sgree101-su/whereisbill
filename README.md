@@ -2,7 +2,7 @@
 
 Bills don't turn laws in one day!
 
-[Check out Jarrod demo!](https://vimeo.com/246520840)
+## [Check out Jarrod demo!](https://vimeo.com/246520840)
 
 
 ###### Project Overview: 
@@ -23,5 +23,4 @@ The third function will be getelectiverep(address). It will use SmartyStreets AP
 Finally, using the getcontact(state, district) function the user will be provided with his elected representative contact information. 
 The main program will be used to generate the menu, the indefinite loop, the try and except, error handling and calls to functions. 
 
-###### Video Demo:
 
