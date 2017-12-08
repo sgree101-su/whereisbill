@@ -13,6 +13,7 @@ This is the written explanation of "who worked on what" outlining individual con
 - Came up with the project idea
 - Helped on the project proposal
 - First draft for the poster
+- Found csv file with list of federal elected representatives
 
 ###### Sam 
 
