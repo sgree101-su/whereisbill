@@ -12,9 +12,11 @@ Bills do not turn laws in one day! Where is Bill? is a python program designed t
 The user will start at a menu and have to press a key to continue. It will prompt him to enter one or more keywords to start the legislation search. The program will return a list of the most recent 20 matching bills. Then, the user will have the opportunity to enter the bill identification number to track its current location. Finally, a prompt will ask the user to provide his address to find contact information about his federal elected representatives. Our goal is to give them a voice in the legislation process. 
 
 ###### Algorithm:
-To code this program we will need to import some libraries (json, requests, pandas, numpy, pprint) and code 6 functions.
+To code this program we will need to import some libraries (json, requests, pandas, numpy, pprint and warnings) and code 6 functions.
 
-Bill, the logo is storred in the function window for clarity purposes
+Bill, the logo is storred in the function window for clarity purposes. 
+
+The class color is defined to allow bold text. 
 
 The first function we have to define is getrecentbill(query). It will connect to [ProPublica Congress API](https://projects.propublica.org/api-docs/congress-api/) and return matched bills in a data frame using pandas, Python Data Analysis Library. We will use lists, dictionaries and iteration to index and sort the json data to fit our needs. 
 
