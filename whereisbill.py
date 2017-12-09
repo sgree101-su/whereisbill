@@ -153,9 +153,7 @@ import json
 import requests
 import pandas as pd
 import numpy as np
-import os
 from pprint import pprint
-import textwrap
 
 # this turns off warning messages
 import warnings
